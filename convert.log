@@ -1,0 +1,21 @@
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: 2000
+root - DEBUG - Base: 2
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: 1500
+root - DEBUG - Base: 8
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: 250
+root - DEBUG - Base: 16
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: 120
+root - DEBUG - Base: 65
+root - ERROR - This is a incorrect base, we will add it in the future
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: Pepe
+root - DEBUG - Base: 2
+root - CRITICAL - Can't perform operation
+root - INFO - I am entering to the convert number function
+root - DEBUG - Number: 100000001
+root - DEBUG - Base: 16
+root - WARNING - Big number can make the program run slower
